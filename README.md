@@ -17,6 +17,7 @@ This project focuses on simulating and detecting the WannaCry ransomware worm, w
 
 ## Requirements
 - **Python 3.12.**
+- **C#.**
 - **Libraries: cryptography, watchdog, smbprotocol,..**
 - **Virtualized environment (e.g., VMware, VirtualBox) for safe testing.**
 - **Windows system for accurate simulation (preferably unpatched for EternalBlue vulnerability).**
